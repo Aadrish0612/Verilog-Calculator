@@ -60,7 +60,7 @@ CTRL A B RESULT Z C N E
 
 ## Waveform
 
-![Waveform](waveform-alu.png)
+![Waveform](Waveform-alu.png)
 
 ## Future Improvements
 

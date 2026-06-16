@@ -60,8 +60,7 @@ CTRL A B RESULT Z C N E
 
 ## Waveform
 
-![Waveform](C:\Users\AADRISH\OneDrive\Pictures\Screenshots\Waveform-alu.png)
-
+![Waveform](waveform-alu.png)
 
 ## Future Improvements
 

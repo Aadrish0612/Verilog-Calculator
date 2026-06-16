@@ -58,9 +58,11 @@ CTRL A B RESULT Z C N E
 011 8 0 255 0 0 0 1
 ```
 
-## Waveform
+## Waveforms
 
 ![Waveform](Waveform-alu.png)
+
+![Waveform2](Waveform-alu2.png)
 
 ## Future Improvements
 

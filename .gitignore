@@ -1,0 +1,10 @@
+# Icarus outputs
+sim
+a.out
+
+# Waveforms
+*.vcd
+*.gtkw
+
+# VS Code local settings
+.vscode/settings.json

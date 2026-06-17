@@ -1,10 +1,84 @@
-# Icarus outputs
+# =========================
+
+# Icarus Verilog
+
+# =========================
+
 sim
+sim.exe
 a.out
 
-# Waveforms
-*.vcd
-*.gtkw
+# Compiled outputs
 
-# VS Code local settings
-.vscode/settings.json
+*.vvp
+
+# Waveforms
+
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.ghw
+
+# GTKWave session files
+
+*.gtkw
+*.sav
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# =========================
+
+# VS Code
+
+# =========================
+
+.vscode/
+
+# Uncomment if you want to keep workspace settings
+
+# !.vscode/settings.json
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+
+# Vivado (future FPGA projects)
+
+# =========================
+
+*.jou
+*.str
+*.pb
+*.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# =========================
+
+# Backup files
+
+# =========================
+
+*~
+*.swp
+*.swo

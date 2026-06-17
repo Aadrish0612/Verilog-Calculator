@@ -82,33 +82,32 @@ CTRL    A    B    RESULT    CARRY    BORROW
 
 *Insert simulation result screenshot here.*
 
-```markdown
+
 ![Simulation Results](Result.png)
-```
+
 
 ## Addition Waveform
 
 *Insert addition waveform screenshot here.*
 
-```markdown
+
 ![Addition Waveform](Waveform3.png)
-```
+
 
 ## Subtraction Waveform
 
 *Insert subtraction waveform screenshot here.*
 
-```markdown
+
 ![Subtraction Waveform](Waveform2.png)
-```
 
 ## Multiplication Waveform
 
 *Insert multiplication waveform screenshot here.*
 
-```markdown
+
 ![Multiplication Waveform](Waveform1.png)
-```
+
 
 ## Tools Used
 

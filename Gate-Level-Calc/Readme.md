@@ -80,7 +80,7 @@ CTRL    A    B    RESULT    CARRY    BORROW
 
 ## Result Screenshot
 
-*Insert simulation result screenshot here.*
+
 
 
 ![Simulation Results](images/Result.png)
@@ -88,7 +88,7 @@ CTRL    A    B    RESULT    CARRY    BORROW
 
 ## Addition Waveform
 
-*Insert addition waveform screenshot here.*
+
 
 
 ![Addition Waveform](images/Waveform3.png)
@@ -96,14 +96,12 @@ CTRL    A    B    RESULT    CARRY    BORROW
 
 ## Subtraction Waveform
 
-*Insert subtraction waveform screenshot here.*
 
 
 ![Subtraction Waveform](images/Waveform2.png)
 
 ## Multiplication Waveform
 
-*Insert multiplication waveform screenshot here.*
 
 
 ![Multiplication Waveform](images/Waveform1.png)
